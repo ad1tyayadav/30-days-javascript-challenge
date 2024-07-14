@@ -49,5 +49,11 @@ console.log(initVal);
 const newBndi = 'Hello babu kaise ho?';
 const ex = 'Bhad mein jaa!';
 console.log(newBndi);
-newBndi = ex;
+
+try {
+    newBndi = ex;
+} catch (error) {
+console.log("Error aa gya bhai!", error);
+}
+
 console.log(newBndi);
