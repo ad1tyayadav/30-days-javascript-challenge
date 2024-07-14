@@ -55,5 +55,4 @@ try {
 } catch (error) {
 console.log("Error aa gya bhai!", error);
 }
-
 console.log(newBndi);
