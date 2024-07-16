@@ -1,8 +1,8 @@
 ## 30 Days of JavaScript Challenge
 
 - [x] Day 1: [Variables and Data Types](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/1%20-%20Variables%20%26%20Data%20Type)
-- [x] Day 2[Opreators](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/2%20-%20Opreators): 
-- [x] Day 3[Control Structures](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/3%20-%20Control%20Structures):
+- [x] Day 2: [Opreators](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/2%20-%20Opreators): 
+- [x] Day 3: [Control Structures](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/3%20-%20Control%20Structures):
 - [ ] Day 4:
 - [ ] Day 5:
 - [ ] Day 6:
