@@ -5,7 +5,7 @@
 - [x] Day 3: [Control Structures](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/3%20-%20Control%20Structures)
 - [x] Day 4: [Loops](https://github.com/ad1tyayadav/30-days-javascript-challenge/commit/e799ae1f160fd0898cbf635a66852725f9bed2e0)
 - [x] Day 5: [Functions](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/5%20-%20Functions)
-- [ ] Day 6:
+- [x] Day 6: [Arrays](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/6%20-%20Arrays)
 - [ ] Day 7:
 - [ ] Day 8:
 - [ ] Day 9:
