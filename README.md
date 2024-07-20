@@ -7,7 +7,7 @@
 - [x] Day 5: [Functions](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/5%20-%20Functions)
 - [x] Day 6: [Arrays](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/6%20-%20Arrays)
 - [x] Day 7: [Objects](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/7%20-%20Objects)
-- [ ] Day 8:
+- [x] Day 8: [ES6+ Features]()
 - [ ] Day 9:
 - [ ] Day 10:
 - [ ] Day 11:
