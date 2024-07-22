@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Handling</title>
+    <style>
+        #avaimage {
+            width: 280px;
+            height: 415px;
+            object-fit: cover;
+            opacity: 0;
+            position: relative;
+            z-index: 10;
+        }
+
+        .box {
+            border: 3px solid blueviolet;
+            width: 280px;
+            height: 400px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        #box {
+            border: 3px solid blueviolet;
+            width: 40vw;
+            height: 40vh;
+            border-radius: 12px;
+        }
+
+        input {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="display: flex; align-items: center; gap: 20px;">
+        <h2 id="ava">Hey I'm Ava Addam</h2>
+        <button id="btn" style="height: 4vh; cursor: pointer;">Change Star</button>
+    </div>
+    <hr>
+    <h4>Doblue Click on Box</h4>
+    <div class="box">
+        <img id="avaimage"
+            src="https://imgs.search.brave.com/Oryh7WkVc9WqlLj6ZU4ZAELlV1Oi-h9bPZ9QqN2WeQQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QllqazBaRGxt/WldRdE9XTmtZeTAw/WTJJMUxUaG1NVGt0/TkRnd1pXWTFPV1F4/WVRWaFhrRXlYa0Zx/Y0dkZVFYVnlORFV6/T1RRNU1qWUAuanBn"
+            alt="">
+    </div>
+    <hr>
+    <h3>Hover your mouse in box</h3>
+    <div id="box"></div>
+    <hr>
+    <label for="KeyDown">KeyDown Event</label>
+    <input id="KeyDown" type="text">
+    <br>
+    <hr>
+    <div>
+        <label for="KeyUp">KeyUp Event</label>
+        <input id="KeyUp" type="text">
+        <span>Hello</span>
+    </div>
+    <hr>
+    <form>
+
+        <label for="name">Name</label>
+        <input id="name" type="text">
+        <br>
+        <label for="password">Password</label>
+        <input id="password" type="password">
+        <br>
+        <button id="submit" type="submit">Submit</button>
+        &nbsp;&nbsp;&nbsp;
+        <span>(Details log in console)</span>
+    </form>
+    <br><br><br>
+    <hr>
+    <label for="">
+        Chose your Flavor!
+        <select name="" id="flavours">\
+            <option value="Choclate">Choclate</option>
+            <option value="Orange">Orange</option>
+            <option value="Kaccha Aam">Kaccha Aam</option>
+        </select>
+    </label>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span id="change"></span>
+    <br><br>
+    <hr>
+    <ul id="cuties">
+        <li class="model">Hi I'm Ava</li>
+        <li class="model">Hi I'm Dani</li>
+        <li class="model">Hi I'm Poonam</li>
+        <li class="model">Hi I'm Mia</li>
+        <li class="model">Hi I'm Sunny</li>
+    </ul>
+    <br><br>
+    <hr>
+    <label for="">Add Models</label>
+    <input class="takeModel" type="text">
+    <button class="addModel">Add Model</button>
+    <ul class="star">
+        <li class="child">Ava</li>
+        <li class="child">Dani</li>
+    </ul>
+    <script src="/10 - Event Handling/task/index.js"></script>
+</body>
+
+</html>
