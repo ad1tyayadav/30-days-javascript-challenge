@@ -11,7 +11,7 @@
 - [x] Day 9: [DOM Manipulation](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/9%20-%20DOM%20Manipulation)
 - [x] Day 10: [Event Handling](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/10%20-%20Event%20Handling)
 - [x] Day 11: [Promises and Async/Await](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/11%20-%20Promises%20and%20Async%20Await)
-- [ ] Day 12:
+- [x] Day 12: [Error Handling](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/12%20-%20Error%20Handling)
 - [ ] Day 13:
 - [ ] Day 14:
 - [ ] Day 15:
