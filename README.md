@@ -13,7 +13,7 @@
 - [x] Day 11: [Promises and Async/Await](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/11%20-%20Promises%20and%20Async%20Await)
 - [x] Day 12: [Error Handling](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/12%20-%20Error%20Handling)
 - [x] Day 13: [Modules](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/13%20-%20Modules)
-- [ ] Day 14:
+- [x] Day 14: [Classes](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/14%20-%20Classes)
 - [ ] Day 15:
 - [ ] Day 16:
 - [ ] Day 17:
