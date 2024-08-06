@@ -16,14 +16,14 @@
 - [x] Day 14: [Classes](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/14%20-%20Classes)
 - [x] Day 15: [Closures](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/15%20-%20Closures)
 - [x] Day 16: [Recursion](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/16%20-%20Recursion)
-- [ ] Day 17:
-- [ ] Day 18:
-- [ ] Day 19:
-- [ ] Day 20:
-- [ ] Day 21:
-- [ ] Day 22:
-- [ ] Day 23:
-- [ ] Day 24:
+- [ ] Day 17: [Skipped]
+- [ ] Day 18: [Skipped]
+- [ ] Day 19: [Skipped]
+- [ ] Day 20: [Skipped]
+- [ ] Day 21: [Skipped]
+- [ ] Day 22: [Skipped]
+- [ ] Day 23: [Skipped]
+- [x] Day 24: [Project 1 - Weather App](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/24%20-%20Project%201%20-Weather%20App)
 - [ ] Day 25:
 - [ ] Day 26:
 - [ ] Day 27:
