@@ -15,7 +15,7 @@
 - [x] Day 13: [Modules](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/13%20-%20Modules)
 - [x] Day 14: [Classes](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/14%20-%20Classes)
 - [x] Day 15: [Closures](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/15%20-%20Closures)
-- [ ] Day 16:
+- [x] Day 16: [Recursion](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/16%20-%20Recursion)
 - [ ] Day 17:
 - [ ] Day 18:
 - [ ] Day 19:
