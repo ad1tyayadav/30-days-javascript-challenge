@@ -24,7 +24,7 @@
 - [ ] Day 22: [Skipped]
 - [ ] Day 23: [Skipped]
 - [x] Day 24: [Project 1 - Weather App](https://github.com/ad1tyayadav/30-days-javascript-challenge/tree/main/24%20-%20Project%201%20-Weather%20App)
-- [ ] Day 25:
+- [ ] Day 25: [Skipped]
 - [ ] Day 26:
 - [ ] Day 27:
 - [ ] Day 28:
